@@ -62,15 +62,7 @@ void start(){
 	cout<<endl;
 	cout<<"-----------------------------------------------------";
 	cout<<endl;
-	bool flag=false;
-	while(true){
-		i = getch();
-		if(i == 32){
-		system("cls");
-		break;
-		}
-		
-	}
+	system("pause")
 }
 int x[1000000];
 int play(){
